@@ -1,6 +1,6 @@
-﻿Console.Write("Введите число a: ");
+﻿Console.Writeline("Введите число a: ");
 int a = Console.ReadLine();
-Console.Write("Введите число b: ");
+Console.Writeline("Введите число b: ");
 int b = Console.ReadLine();
 int max = a;
 if (b > a) max = b;
