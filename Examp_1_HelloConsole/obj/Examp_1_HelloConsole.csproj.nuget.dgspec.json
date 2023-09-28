@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zzzh1\\OneDrive\\Рабочий стол\\Учеба\\Examp\\Examp_1_HelloConsole\\Examp_1_HelloConsole.csproj": {}
+    "c:\\Users\\zzzh1\\OneDrive\\Рабочий стол\\Учеба\\Examp-new\\examp\\Examp_1_HelloConsole\\Examp_1_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zzzh1\\OneDrive\\Рабочий стол\\Учеба\\Examp\\Examp_1_HelloConsole\\Examp_1_HelloConsole.csproj": {
+    "c:\\Users\\zzzh1\\OneDrive\\Рабочий стол\\Учеба\\Examp-new\\examp\\Examp_1_HelloConsole\\Examp_1_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zzzh1\\OneDrive\\Рабочий стол\\Учеба\\Examp\\Examp_1_HelloConsole\\Examp_1_HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\zzzh1\\OneDrive\\Рабочий стол\\Учеба\\Examp-new\\examp\\Examp_1_HelloConsole\\Examp_1_HelloConsole.csproj",
         "projectName": "Examp_1_HelloConsole",
-        "projectPath": "C:\\Users\\zzzh1\\OneDrive\\Рабочий стол\\Учеба\\Examp\\Examp_1_HelloConsole\\Examp_1_HelloConsole.csproj",
+        "projectPath": "c:\\Users\\zzzh1\\OneDrive\\Рабочий стол\\Учеба\\Examp-new\\examp\\Examp_1_HelloConsole\\Examp_1_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\zzzh1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zzzh1\\OneDrive\\Рабочий стол\\Учеба\\Examp\\Examp_1_HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\zzzh1\\OneDrive\\Рабочий стол\\Учеба\\Examp-new\\examp\\Examp_1_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zzzh1\\AppData\\Roaming\\NuGet\\NuGet.Config"
