@@ -1,0 +1,15 @@
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\bin\Debug\net6.0\Examp_9.exe
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\bin\Debug\net6.0\Examp_9.deps.json
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\bin\Debug\net6.0\Examp_9.runtimeconfig.json
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\bin\Debug\net6.0\Examp_9.dll
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\bin\Debug\net6.0\Examp_9.pdb
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\obj\Debug\net6.0\Examp_9.csproj.AssemblyReference.cache
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\obj\Debug\net6.0\Examp_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\obj\Debug\net6.0\Examp_9.AssemblyInfoInputs.cache
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\obj\Debug\net6.0\Examp_9.AssemblyInfo.cs
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\obj\Debug\net6.0\Examp_9.csproj.CoreCompileInputs.cache
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\obj\Debug\net6.0\Examp_9.dll
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\obj\Debug\net6.0\refint\Examp_9.dll
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\obj\Debug\net6.0\Examp_9.pdb
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\obj\Debug\net6.0\Examp_9.genruntimeconfig.cache
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_9\obj\Debug\net6.0\ref\Examp_9.dll

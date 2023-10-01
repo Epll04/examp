@@ -1,0 +1,15 @@
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\obj\Debug\net6.0\Examp_11.csproj.AssemblyReference.cache
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\obj\Debug\net6.0\Examp_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\obj\Debug\net6.0\Examp_11.AssemblyInfoInputs.cache
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\obj\Debug\net6.0\Examp_11.AssemblyInfo.cs
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\obj\Debug\net6.0\Examp_11.csproj.CoreCompileInputs.cache
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\bin\Debug\net6.0\Examp_11.exe
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\bin\Debug\net6.0\Examp_11.deps.json
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\bin\Debug\net6.0\Examp_11.runtimeconfig.json
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\bin\Debug\net6.0\Examp_11.dll
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\bin\Debug\net6.0\Examp_11.pdb
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\obj\Debug\net6.0\Examp_11.dll
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\obj\Debug\net6.0\refint\Examp_11.dll
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\obj\Debug\net6.0\Examp_11.pdb
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\obj\Debug\net6.0\Examp_11.genruntimeconfig.cache
+C:\Users\zzzh1\OneDrive\Рабочий стол\Учеба\Examp-new\examp\Examp_11\obj\Debug\net6.0\ref\Examp_11.dll
